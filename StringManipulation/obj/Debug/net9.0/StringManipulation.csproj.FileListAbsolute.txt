@@ -1,0 +1,14 @@
+F:\Shubham Patil\.net_c#_learning\StringManipulation\bin\Debug\net9.0\StringManipulation.exe
+F:\Shubham Patil\.net_c#_learning\StringManipulation\bin\Debug\net9.0\StringManipulation.deps.json
+F:\Shubham Patil\.net_c#_learning\StringManipulation\bin\Debug\net9.0\StringManipulation.runtimeconfig.json
+F:\Shubham Patil\.net_c#_learning\StringManipulation\bin\Debug\net9.0\StringManipulation.dll
+F:\Shubham Patil\.net_c#_learning\StringManipulation\bin\Debug\net9.0\StringManipulation.pdb
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.AssemblyInfoInputs.cache
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.AssemblyInfo.cs
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.csproj.CoreCompileInputs.cache
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.dll
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\refint\StringManipulation.dll
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.pdb
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.genruntimeconfig.cache
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\ref\StringManipulation.dll

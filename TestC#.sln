@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestC#", "TestC#\TestC#.csproj", "{1539B314-3CB2-4291-8167-C14A0F52797A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{0B43C5E0-C65B-4912-9BEC-6E1F468E07F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLearning", "ArraysLearning\ArraysLearning.csproj", "{B2DD2AF2-01F3-4A68-BEAA-FC6E1B015A68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStock", "MovieStock\MovieStock.csproj", "{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1539B314-3CB2-4291-8167-C14A0F52797A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1539B314-3CB2-4291-8167-C14A0F52797A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1539B314-3CB2-4291-8167-C14A0F52797A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1539B314-3CB2-4291-8167-C14A0F52797A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B43C5E0-C65B-4912-9BEC-6E1F468E07F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B43C5E0-C65B-4912-9BEC-6E1F468E07F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B43C5E0-C65B-4912-9BEC-6E1F468E07F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B43C5E0-C65B-4912-9BEC-6E1F468E07F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DD2AF2-01F3-4A68-BEAA-FC6E1B015A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DD2AF2-01F3-4A68-BEAA-FC6E1B015A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DD2AF2-01F3-4A68-BEAA-FC6E1B015A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DD2AF2-01F3-4A68-BEAA-FC6E1B015A68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

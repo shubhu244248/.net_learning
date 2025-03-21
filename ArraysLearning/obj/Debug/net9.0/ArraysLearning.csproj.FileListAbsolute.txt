@@ -1,0 +1,14 @@
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\bin\Debug\net9.0\ArraysLearning.exe
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\bin\Debug\net9.0\ArraysLearning.deps.json
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\bin\Debug\net9.0\ArraysLearning.runtimeconfig.json
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\bin\Debug\net9.0\ArraysLearning.dll
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\bin\Debug\net9.0\ArraysLearning.pdb
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.AssemblyInfoInputs.cache
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.AssemblyInfo.cs
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.csproj.CoreCompileInputs.cache
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.dll
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\refint\ArraysLearning.dll
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.pdb
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.genruntimeconfig.cache
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ref\ArraysLearning.dll
