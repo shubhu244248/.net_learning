@@ -1,0 +1,15 @@
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.exe
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.deps.json
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.runtimeconfig.json
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.dll
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\bin\Debug\net9.0\ConditionalOperator.pdb
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfoInputs.cache
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.AssemblyInfo.cs
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.sourcelink.json
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.dll
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\refint\ConditionalOperator.dll
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.pdb
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ConditionalOperator.genruntimeconfig.cache
+F:\Shubham Patil\.net_c#_learning\ConditionalOperator\obj\Debug\net9.0\ref\ConditionalOperator.dll

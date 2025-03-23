@@ -12,3 +12,4 @@ F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\refint\ArraysL
 F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.pdb
 F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.genruntimeconfig.cache
 F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ref\ArraysLearning.dll
+F:\Shubham Patil\.net_c#_learning\ArraysLearning\obj\Debug\net9.0\ArraysLearning.sourcelink.json

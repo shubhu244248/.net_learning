@@ -1,0 +1,15 @@
+F:\Shubham Patil\.net_c#_learning\MovieStock\bin\Debug\net9.0\MovieStock.exe
+F:\Shubham Patil\.net_c#_learning\MovieStock\bin\Debug\net9.0\MovieStock.deps.json
+F:\Shubham Patil\.net_c#_learning\MovieStock\bin\Debug\net9.0\MovieStock.runtimeconfig.json
+F:\Shubham Patil\.net_c#_learning\MovieStock\bin\Debug\net9.0\MovieStock.dll
+F:\Shubham Patil\.net_c#_learning\MovieStock\bin\Debug\net9.0\MovieStock.pdb
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.GeneratedMSBuildEditorConfig.editorconfig
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.AssemblyInfoInputs.cache
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.AssemblyInfo.cs
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.csproj.CoreCompileInputs.cache
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.sourcelink.json
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.dll
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\refint\MovieStock.dll
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.pdb
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\MovieStock.genruntimeconfig.cache
+F:\Shubham Patil\.net_c#_learning\MovieStock\obj\Debug\net9.0\ref\MovieStock.dll

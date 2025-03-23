@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysLearning", "ArraysLea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieStock", "MovieStock\MovieStock.csproj", "{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "ConditionalOperator\ConditionalOperator.csproj", "{FF58E917-4FB3-42F8-B462-9B5095EDBC3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E610ACD6-76E8-47E5-81BC-5F42B90EE5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF58E917-4FB3-42F8-B462-9B5095EDBC3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF58E917-4FB3-42F8-B462-9B5095EDBC3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF58E917-4FB3-42F8-B462-9B5095EDBC3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF58E917-4FB3-42F8-B462-9B5095EDBC3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

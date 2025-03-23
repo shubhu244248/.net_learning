@@ -12,3 +12,4 @@ F:\Shubham Patil\.net_c#_learning\TestC#\obj\Debug\net9.0\refint\TestC#.dll
 F:\Shubham Patil\.net_c#_learning\TestC#\obj\Debug\net9.0\TestC#.pdb
 F:\Shubham Patil\.net_c#_learning\TestC#\obj\Debug\net9.0\TestC#.genruntimeconfig.cache
 F:\Shubham Patil\.net_c#_learning\TestC#\obj\Debug\net9.0\ref\TestC#.dll
+F:\Shubham Patil\.net_c#_learning\TestC#\obj\Debug\net9.0\TestC#.sourcelink.json

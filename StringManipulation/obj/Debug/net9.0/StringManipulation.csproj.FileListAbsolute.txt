@@ -12,3 +12,4 @@ F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\refint\Str
 F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.pdb
 F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.genruntimeconfig.cache
 F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\ref\StringManipulation.dll
+F:\Shubham Patil\.net_c#_learning\StringManipulation\obj\Debug\net9.0\StringManipulation.sourcelink.json
